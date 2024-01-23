@@ -5,8 +5,7 @@ Clima is a Flutter-based weather application that provides real-time weather inf
 ## Features
 
 - Current weather conditions display
-- 5-day weather forecast
-- Search for weather information in various locations
+- Hourly Forecast
 - Intuitive and user-friendly design
 
 ## GIF
